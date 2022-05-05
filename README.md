@@ -1,4 +1,4 @@
- <h3  align="center">🚀 Em desenvolvimento... 🚧 </h3>
+ <h3  align="center">🚀 Em desenvolvimento... Media query 🚧 </h3>
 <h1 align="center">Alura Plus+</h1>
 
 <div align="center">
@@ -6,5 +6,5 @@
 </div>
 
 ## Visualize o Projeto Hospedado:👀
-
--  <a href="https://barbearia-alura-2021.vercel.app/contato.html">Alura+ Kelvin - 2022</a> 
+_versão Desktop_
+-  <a href="https://alura-plus-two-phi.vercel.app/">Alura+ Kelvin - 2022</a> 
